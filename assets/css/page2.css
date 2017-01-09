@@ -1,0 +1,22 @@
+.center {
+  text-align: center;
+}
+
+.jumboo {
+  background-color: #e6ffcc;
+  background-image: url("");
+  background-size: 100%;
+}
+
+.bodyy {
+  background-color: #e0e0eb;
+}
+
+body {
+  background-color: #f0f5f5;
+}
+
+img {
+	width:240px;
+	height: 100px;
+}
